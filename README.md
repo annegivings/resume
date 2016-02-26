@@ -19,11 +19,9 @@ Math Teacher, August 2013-Present
 _Selected as one of 6,000 accepted applicants out of 57,000 applicants to serve in a national corps committed to providing transformational educational opportunities for all children._
 * Instruct 90 students to achieve 80% mastery on aligned standards in Algebra 1 and Geometry.  
 * Develop and implement a trigonometry curriculum to prepare students for college-level math courses.  
-* Collaborate with teachers in math department to ensure three points growth on junior ACT scores.  
-* Work with families, administrators, and community members to increase student achievement.
 * Designed after-school program for girls to learn coding and entrepreneurship skills.  
 * Formed coding team to build Android and iPhone apps to compete in Kentucky's Student Technology Leadership Program.  
-* Achieved average of 4.625 points math ACT growth in junior geometry class, using data tracking and peer tutoring to motivate student achievement.  
+* Achieved average of 4.6 points math ACT growth in junior geometry class, using data tracking and peer tutoring to motivate student achievement.  
 * Received Learning Innovation Grant through the Appalachian Renaissance Initiative to implement Action Research Project in geometry classes.
 * Recognized as a school for achieving highest math growth in the state and fourth highest math scores overall based on 2014-2015 testing data.
 
