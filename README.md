@@ -1,6 +1,6 @@
 # Anne Kuhnen
 annekuhnen@outlook.com  
-512-987-9306 | [My Website](annekuhnen.com)
+512-987-9306 | [My Website](http://www.annekuhnen.com)
 
 >#### EDUCATION
 
